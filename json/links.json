@@ -1,26 +1,15 @@
 [
     {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "name": "Twitter",
+        "color": "blue",
+        "icon": "twitter",
+        "url": "https://twitter.com/IamFenixDesign"
 	},
     {
-        "name": "Link",
-        "color": "red",
+        "name": "Dribbble",
+        "color": "Pink",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://dribbble.com/iamfenixdesign"
 	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	}
+    {   
 ]
