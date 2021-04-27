@@ -1,4 +1,10 @@
-[
+[  
+    {
+        "name": "Varya 2 (2021)",
+        "description": "A cydia iOS theme.",
+        "image": "images/image9.png",
+        "link": "https://repo.packix.com/package/com.fenix.spaceuidark"
+	},
     {
         "name": "SpaceUI - Icon (2021)",
         "description": "Space UI an iOS cydia theme.",
