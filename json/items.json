@@ -1,9 +1,15 @@
 [  
     {
+        "name": "Team Platinum (2021)",
+        "description": "A esport team logo ft Juani Orefice (https://twitter.com/JuaniOrefice)",
+        "image": "images/image11.png",
+        "link": "https://twitter.com/PlatinumCR_"
+	},
+    {
         "name": "Warriors Store (2021)",
-        "description": "A digital videogames store.",
+        "description": "A digital videogames store ft Juani Orefice (https://twitter.com/JuaniOrefice).",
         "image": "images/image10.png",
-        "link": "https://dribbble.com/shots/15633802-Warriors-digital-store"
+        "link": "https://twitter.com/Warriorstoree"
 	},
     {
         "name": "Varya 2 (2021)",
@@ -31,9 +37,9 @@
 	},
     {
         "name": "Samurái Horse League (2020)",
-        "description": "In collab with Juani Orefice.",
+        "description": "In collab with Juani Orefice (https://twitter.com/JuaniOrefice).",
         "image": "images/image3.png",
-        "link": "https://dribbble.com/shots/14683129-Samur-i-Horse-League"
+        "link": "https://twitter.com/SHLeague_GG"
 	},
     {
         "name": "Deibo Branding (2019)",
