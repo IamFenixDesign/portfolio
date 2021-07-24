@@ -1,7 +1,7 @@
 [
     {
         "name": "Twitter",
-        "color": "light-blue",
+        "color": "blue",
         "icon": "twitter",
         "url": "https://twitter.com/IamFenixDesign"
 	},
@@ -10,5 +10,11 @@
         "color": "Pink",
         "icon": "dribbble",
         "url": "https://dribbble.com/iamfenixdesign"
-	}   
+	} ,
+    {
+        "name": "Paypal",
+        "color": "blue",
+        "icon": "paypal",
+        "url": "https://paypal.me/axinen"
+	}  
 ]
